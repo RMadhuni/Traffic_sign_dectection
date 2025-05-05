@@ -35,10 +35,9 @@ This project implements a simple autonomous control system using the CARLA simul
    pip install pygame opencv-python numpy
    
 2. **How to use:**
-   
 CarlaUE4.exe    # On Windows
 
-4. **Expected Behavior:**
+3. **Expected Behavior:**
 
     -Vehicle stops smoothly when a red light is detected in front of it.
     -It resumes motion once the light turns green.
