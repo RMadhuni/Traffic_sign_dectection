@@ -38,7 +38,7 @@ This project implements a simple autonomous control system using the CARLA simul
 CarlaUE4.exe    # On Windows
 
 3. **Expected Behavior:**
-    -Vehicle stops smoothly when a red light is detected in front of it.
-    -It resumes motion once the light turns green.
-    -Behavior is handled automatically via control logic.
+    Vehicle stops smoothly when a red light is detected in front of it.
+    It resumes motion once the light turns green.
+    Behavior is handled automatically via control logic.
 
